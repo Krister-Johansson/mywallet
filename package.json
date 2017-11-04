@@ -4,6 +4,7 @@
   "description": "My wallet",
   "main": "index.js",
   "scripts": {
+    "start": "start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
